@@ -1,0 +1,44 @@
+.avion{
+	display: inline-block;
+	width: 10em;
+	height: 15em;
+	border: 0.2em outset;
+	text-align: center;
+	position: relative;
+}
+.ruby{
+	width: 10em;
+	height: 15em;
+	border: 0.2em outset;
+	text-align: center;
+	position: relative;
+	left: 11em;
+	bottom: 15.3em;
+}
+.corazon{
+	width: 10em;
+	height: 15em;
+	border: 0.2em inset;
+	text-align: center;
+	position: relative;
+	left: 22em;
+	bottom: 30.7em;
+}
+.vida{
+	width: 10em;
+	height: 15em;
+	border: 0.2em outset;
+	text-align: center;
+	position: relative;
+	left: 33em;
+	bottom: 46.05em;
+}
+.comida{
+	width: 10em;
+	height: 15em;
+	border: 0.2em outset;
+	text-align: center;
+	position: relative;
+	left: 44em;
+	bottom: 61.4em;
+}
